@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Luisricardo2825/Luisricardo2825/main/images/dev.gif" alt="dev" width="340" height="340"/></p>
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF768&width=435&lines=Always+learning+to+be+better;Web+developer;Java%2FKotlin+Developer" alt="Typing SVG" /></a>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2EF768&width=600&height=70&lines=Always+learning+to+be+better;Web+developer;Java%2FKotlin+Developer" alt="Typing SVG" /></a>
 </p>
 <h1 align="center">Hi 👋, I'm Luis Ricardo Alves Santos</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
