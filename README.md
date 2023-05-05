@@ -90,7 +90,6 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
             </a>
             <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisricardo2825&show_icons=true&locale=en&layout=compact" alt="luisricardo2825" />
-        
        </p>      
     </details>
 </div>
