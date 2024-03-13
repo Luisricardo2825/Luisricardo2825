@@ -4,7 +4,7 @@
 <div> 
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisricardo2825&label=Profile%20views&color=0e75b6&style=flat" alt="luisricardo2825" />
 
-- 🔭 I’m currently working on [upjar](https://github.com/Luisricardo2825/upjar)
+- 🔭 I’m currently working as systems development analyst
 
 - 🌱 I’m currently learning **Rust Lang**
 
@@ -20,10 +20,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-ricardo-alves-santos-6061b5216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-ricardo-alves-santos-6061b5216/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18667970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18667970" height="30" width="40" /></a>
 </p>
-
 <div>
+   <summary><h3>Languages and Tools</h3></summary>
     <details>
-        <summary><h3>Languages and Tools</h3></summary>
         <p align="center" >
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
